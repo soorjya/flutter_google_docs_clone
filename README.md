@@ -37,7 +37,7 @@ The Flutter Google Docs Clone is a real-time collaborative document editing appl
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/flutter_google_docs_clone.git`
+1. Clone the repository: `git clone https://github.com/soorjya/flutter_google_docs_clone.git`
 2. Navigate to the backend directory: `cd flutter_google_docs_clone/backend`
 3. Install backend dependencies: `npm install`
 4. Set up the environment variables by creating a `.env` file and providing the required configurations (e.g., MongoDB connection URL, JWT secret key, etc.).
